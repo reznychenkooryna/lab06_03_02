@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+D:\Лабораторні роботи\Алгоритмізація та програмування\ЛР 6\Lab_06_03_02\UnitTest1\UnitTest1.cpp(17,17): error C3861: SumEvenIndices: идентификатор не найден
+  (компиляция исходного файла "/UnitTest1.cpp")
+  
